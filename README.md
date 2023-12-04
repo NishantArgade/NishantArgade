@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
       <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" /> 
     </a>
-    Hi, I'm <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank" style="font-family: 'Arial', sans-serif; font-size: 32px;">Digvijay Bendre</a>
+    Hi, I'm <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank" style="font-family: 'Arial', sans-serif; font-size: 32px;">Nishant Argade</a>
   </div>
 </h1>
 
